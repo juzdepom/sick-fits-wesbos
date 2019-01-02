@@ -1,4 +1,11 @@
-# Table Of Contents
+# Advanced Fullstack React and GraphQL with @wesbos
+
+## Useful URLS
+
+* Access my course [here](https://courses.wesbos.com/account)(Have to have login credentials)
+* Access Github course files [here](https://github.com/wesbos/Advanced-React/)
+
+## Table Of Contents
 
 1. Editor Setup and Starter Files Installation (9min)
 2. Sick Fits and the Tech Stack Behind It (11min)

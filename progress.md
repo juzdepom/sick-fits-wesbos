@@ -2,7 +2,17 @@
 * ```insert url here```
 
 ## All Sessions
-* [Session 1](#session-1) - Lecture 1-x
+* [Session 1](#session-1) - Lecture 1-4
+
+## Session 2
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 Thu, Jan 3, 2019* <br>
+*💬 Lectures: 5-X* <br>
+*🕐 6am-XX* <br>
+*📍 Ko Phangan, Thailand* <br>
+
+5. An Intro to Styled Components (11min)
+    * downloaded the ```vscode-styled-components``` extension by Julien Poissonnier
 
 ## Session 1
 [🔝 Table of Contents](#all-sessions)<br>
@@ -12,7 +22,6 @@
 *📍 Home, Haddon Township* <br>
 
 <img src="/screenshots/sessions/session-1.png" width="300" alt="session 1">
-
 1. Editor Setup and Starter Files Installation (9min)
 2. Sick Fits and the Tech Stack Behind It (11min)
 3. An Intro to Next.js, Tooling and Routing (9min)
