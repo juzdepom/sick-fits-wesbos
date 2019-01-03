@@ -15,6 +15,10 @@
     * downloaded the ```vscode-styled-components``` extension by Julien Poissonnier
 6. Themes and Layout with Styled Components (19min)
     * introduced to the React Context API (Wesbos provides a more in depth 15 min explanation of this concept in a youtube vidoe)
+7. Global Styling and Typography with Styled Components (11min)
+8. Visualizing Route Changes (7min)
+    * got the little red loading bar working
+9. Fixing Styled Components Flicker on Server Render (4min)
 
 ## Session 1
 [🔝 Table of Contents](#all-sessions)<br>
