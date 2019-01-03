@@ -13,6 +13,8 @@
 
 5. An Intro to Styled Components (11min)
     * downloaded the ```vscode-styled-components``` extension by Julien Poissonnier
+6. Themes and Layout with Styled Components (19min)
+    * introduced to the React Context API (Wesbos provides a more in depth 15 min explanation of this concept in a youtube vidoe)
 
 ## Session 1
 [🔝 Table of Contents](#all-sessions)<br>
