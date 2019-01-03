@@ -8,7 +8,7 @@
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 Thu, Jan 3, 2019* <br>
 *💬 Lectures: 5-X* <br>
-*🕐 6am-XX* <br>
+*🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
 5. An Intro to Styled Components (11min)
@@ -19,6 +19,29 @@
 8. Visualizing Route Changes (7min)
     * got the little red loading bar working
 9. Fixing Styled Components Flicker on Server Render (4min)
+    * when we reloaded the page, the CSS would not load immediately. We fixed that by adding a snippet of code.
+10. An intro to GraphQL (14min)
+    * worth rewatching! Didn't really get it the first time around.
+11.  Getting Setup with Prisma (23min)
+     * ```npm i -g prisma```
+     * ```prisma login```
+     * ```prisma init```
+     * Important! Don't ever commit the variables.env file (in the backend folder) to github. It contains private information!
+     * ```prisma deploy --help``` (we're going to pass a custom path to an environmental file)
+     * ```prisma deploy --env-file variables.env```
+     * ```npm run deploy``` (see screenshot below)
+
+<img src="/screenshots/sessions/session2/deploy.png" width="500" alt="prisma deploy">
+
+* Ran into this error:
+<br>
+<img src="/screenshots/sessions/session2/prisma-error.png" width="500" alt="prisma error">
+<br>
+Solution: turns out I needed to create an account with [Prisma](https://app.prisma.io) first.
+
+
+
+
 
 ## Session 1
 [🔝 Table of Contents](#all-sessions)<br>
@@ -27,7 +50,7 @@
 *🕐 8am-10:30am* <br>
 *📍 Home, Haddon Township* <br>
 
-<img src="/screenshots/sessions/session-1.png" width="300" alt="session 1">
+<img src="/screenshots/sessions/session1/session-1.png" width="300" alt="session 1">
 1. Editor Setup and Starter Files Installation (9min)
 2. Sick Fits and the Tech Stack Behind It (11min)
 3. An Intro to Next.js, Tooling and Routing (9min)
