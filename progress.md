@@ -13,6 +13,10 @@
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
+16. React Meets GraphQL (26min)
+    * frontend is now successfully displaying data pulled from backend!
+    <img src="/screenshots/sessions/session3/lecture-16.png" width="700" alt="prisma playground">
+
 15. Setting Up Apollo Client with React (12min)
     * Apollo Client replaces the need for using something like redux; Apollo does:
         * all of the data management stuff a redux store will do
@@ -22,7 +26,7 @@
         * the managing our local state
         * shows you the error and loading states
     * Wes explains what is happening in the `withData.js` file in the frontend folder.
-    * added the [Apollo Dev Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm) Chrome Extension, which gives us access to the entire store/cache 
+    * added the [Apollo Dev Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm) Chrome Extension, which gives us access to the entire store/cache
 14. Items Creation and Prisma Yoga Flow (26min)
     * in this video we are going to get the items, both the query for pulling items and the mutation for creating items...
     * we'll need to edit 3 or 4 different files. We need to edit our data model, we need to deploy it to Prisma, we need to edit our schema.graphql and we also need to write a resolver in the mutation or the query or both
