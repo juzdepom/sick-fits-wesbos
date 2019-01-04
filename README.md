@@ -2,8 +2,9 @@
 
 ## Useful URLS
 
-* Access my course [here](https://courses.wesbos.com/account)(Have to have login credentials)
+* Access my course [here](https://courses.wesbos.com/account) (Have to have login credentials)
 * Access Github course files [here](https://github.com/wesbos/Advanced-React/)
+* See my progress [here](/progress.md)
 
 ## Table Of Contents
 

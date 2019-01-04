@@ -4,14 +4,16 @@
 ## All Sessions
 * [Session 1](#session-1) - Lecture 1-4
 
-## Session 2
+## Session 3
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 Sat, Jan 5, 2019* <br>
 *💬 Lectures: 12-X* <br>
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
-12.  Getting our GraphQL Yoga Server Running (23min)
+13.  Our first Query and Mutation (12min)
+    * first time around am not 100% understanding what's going on
+12.  Getting our GraphQL Yoga Server Running (23min)<br>
     * Quick Review:
         * created our database in ```db.js```
         * we made a function called ```createServer``` which will inject a schema.graphql which will match everything in the schema with either a Mutation or a Query resolver
