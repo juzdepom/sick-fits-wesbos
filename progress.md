@@ -6,8 +6,23 @@
 
 ## Session 2
 [🔝 Table of Contents](#all-sessions)<br>
+*🗓 Sat, Jan 5, 2019* <br>
+*💬 Lectures: 12-X* <br>
+*🕐 All Day* <br>
+*📍 Ko Phangan, Thailand* <br>
+
+12.  Getting our GraphQL Yoga Server Running (23min)
+    * Quick Review:
+        * created our database in ```db.js```
+        * we made a function called ```createServer``` which will inject a schema.graphql which will match everything in the schema with either a Mutation or a Query resolver
+        * we exposed the database to every single request
+        * in ```index.js``` we spin up an actual virtual version of the GraphQL Yoga server. We're holding off on the authentication middleware express for a bit
+        * we started the server up
+
+## Session 2
+[🔝 Table of Contents](#all-sessions)<br>
 *🗓 Thu, Jan 3, 2019* <br>
-*💬 Lectures: 5-X* <br>
+*💬 Lectures: 5-11* <br>
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
