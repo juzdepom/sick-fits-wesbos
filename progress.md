@@ -11,15 +11,29 @@
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
-13.  Our first Query and Mutation (12min)
+14. Items Creation and Prisma Yoga Flow (26min)
+    * in this video we are going to get the items, both the query for pulling items and the mutation for creating items...
+    * we'll need to edit 3 or 4 different files. We need to edit our data model, we need to deploy it to Prisma, we need to edit our schema.graphql and we also need to write a resolver in the mutation or the query or both
+    * if you ever get confused with what are the steps to adding a new piece of data your backend, come back to this video🙌
+    * note: anytime you make a change to your data model, you **have to have to have to** deploy it to Prisma
+        * aka kill your terminal and rerun ```npm run deploy```
+    * why so many Graphql files?
+      * Our datamodel.graphql is for Prisma, its for our backend.
+      * The prisma.graphql is what gets generated based off our datamodel.graphql
+      * our schema.graphql is our public facing API; because prisma.graphql has access to everything whereas schema.graphql is what the public is going to be interfacing with in JavaScript
+    * when you want to add a new type, you add it to your datamodel, then you run prisma deploy to push that up to your prisma service. That brings down a copy of our prisma.graphql which contains all of our queries and mutations and all of the possible different filters that we could use, then we go into our OWN schema.graphql which is our public facing API. This is what our React application is going to interface with. We can create the ability to create new functions like createItems() or query items, then to match up with these mutations and queries, we go into our ```mutation.js``` and ```query.js``` and we go ahead and write the resolvers to actually complete all of the logic that needs to happen. This is where all of our advanced logic, whether it's charging a credit card or sending an email is going to happen.
+(working with Prisma playground)
+<img src="/screenshots/sessions/session3/prisma-playground.png" width="500" alt="prisma playground">
+1.  Our first Query and Mutation (12min)
     * first time around am not 100% understanding what's going on
-12.  Getting our GraphQL Yoga Server Running (23min)<br>
+2.  Getting our GraphQL Yoga Server Running (23min)<br>
     * Quick Review:
         * created our database in ```db.js```
         * we made a function called ```createServer``` which will inject a schema.graphql which will match everything in the schema with either a Mutation or a Query resolver
         * we exposed the database to every single request
         * in ```index.js``` we spin up an actual virtual version of the GraphQL Yoga server. We're holding off on the authentication middleware express for a bit
         * we started the server up
+
 
 ## Session 2
 [🔝 Table of Contents](#all-sessions)<br>
@@ -28,18 +42,18 @@
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
-5. An Intro to Styled Components (11min)
+1. An Intro to Styled Components (11min)
     * downloaded the ```vscode-styled-components``` extension by Julien Poissonnier
-6. Themes and Layout with Styled Components (19min)
+2. Themes and Layout with Styled Components (19min)
     * introduced to the React Context API (Wesbos provides a more in depth 15 min explanation of this concept in a youtube vidoe)
-7. Global Styling and Typography with Styled Components (11min)
-8. Visualizing Route Changes (7min)
+3. Global Styling and Typography with Styled Components (11min)
+4. Visualizing Route Changes (7min)
     * got the little red loading bar working
-9. Fixing Styled Components Flicker on Server Render (4min)
+5. Fixing Styled Components Flicker on Server Render (4min)
     * when we reloaded the page, the CSS would not load immediately. We fixed that by adding a snippet of code.
-10. An intro to GraphQL (14min)
+6.  An intro to GraphQL (14min)
     * worth rewatching! Didn't really get it the first time around.
-11.  Getting Setup with Prisma (23min)
+7.   Getting Setup with Prisma (23min)
      * ```npm i -g prisma```
      * ```prisma login```
      * ```prisma init```
