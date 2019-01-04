@@ -3,6 +3,8 @@
 
 ## All Sessions
 * [Session 1](#session-1) - Lecture 1-4
+* [Session 2](#session-2) - Lecture 5-11
+* [Session 3](#session-3) - Lecture 12-X
 
 ## Session 3
 [🔝 Table of Contents](#all-sessions)<br>
@@ -11,6 +13,16 @@
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
+15. Setting Up Apollo Client with React (12min)
+    * Apollo Client replaces the need for using something like redux; Apollo does:
+        * all of the data management stuff a redux store will do
+        * the fetching of the data from the server side
+        * the pushing of the data to your mutations
+        * the caching
+        * the managing our local state
+        * shows you the error and loading states
+    * Wes explains what is happening in the `withData.js` file in the frontend folder.
+    * added the [Apollo Dev Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm) Chrome Extension, which gives us access to the entire store/cache 
 14. Items Creation and Prisma Yoga Flow (26min)
     * in this video we are going to get the items, both the query for pulling items and the mutation for creating items...
     * we'll need to edit 3 or 4 different files. We need to edit our data model, we need to deploy it to Prisma, we need to edit our schema.graphql and we also need to write a resolver in the mutation or the query or both
@@ -23,10 +35,11 @@
       * our schema.graphql is our public facing API; because prisma.graphql has access to everything whereas schema.graphql is what the public is going to be interfacing with in JavaScript
     * when you want to add a new type, you add it to your datamodel, then you run prisma deploy to push that up to your prisma service. That brings down a copy of our prisma.graphql which contains all of our queries and mutations and all of the possible different filters that we could use, then we go into our OWN schema.graphql which is our public facing API. This is what our React application is going to interface with. We can create the ability to create new functions like createItems() or query items, then to match up with these mutations and queries, we go into our ```mutation.js``` and ```query.js``` and we go ahead and write the resolvers to actually complete all of the logic that needs to happen. This is where all of our advanced logic, whether it's charging a credit card or sending an email is going to happen.
 (working with Prisma playground)
-<img src="/screenshots/sessions/session3/prisma-playground.png" width="500" alt="prisma playground">
-1.  Our first Query and Mutation (12min)
+<img src="/screenshots/sessions/session3/prisma-playground.png" width="800" alt="prisma playground">
+
+13. Our first Query and Mutation (12min)
     * first time around am not 100% understanding what's going on
-2.  Getting our GraphQL Yoga Server Running (23min)<br>
+12. Getting our GraphQL Yoga Server Running (23min)<br>
     * Quick Review:
         * created our database in ```db.js```
         * we made a function called ```createServer``` which will inject a schema.graphql which will match everything in the schema with either a Mutation or a Query resolver
