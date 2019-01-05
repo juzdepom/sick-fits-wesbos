@@ -13,7 +13,11 @@
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
-16. React Meets GraphQL (26min)
+17.  Creating Items with Mutations (30min)
+    * working on sell page and pushing new items to the database
+    * go to Form.js to check out how Wes did the animation for the loading bar
+16. React Meets GraphQL (26min) ➡️ [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/49b853efaa2bef5c29973a937134c20a14d0ef76)
+
     * frontend is now successfully displaying data pulled from backend!
     <img src="/screenshots/sessions/session3/lecture-16.png" width="700" alt="prisma playground">
 
