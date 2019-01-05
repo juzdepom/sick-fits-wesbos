@@ -13,7 +13,7 @@
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
-18. Uploading Images (12min)
+18. Uploading Images (12min) [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/1e2a0a545df4e8f83b027e7d021bbb94f908a311)
     * created an account on cloudinary <-- we are going to upload images to this external service
     * cloudinary is awesome because it can do transformations. It can do image compressions, resizing of images, cropping, applying filters...they also give you 10 GB for free
     * would be worth watching this tutorial again if we wanted to set up an image hosting service
@@ -21,7 +21,7 @@
     <img src="/screenshots/sessions/session3/cloudinary.png" width="800" alt="cloudinary">
     <img src="/screenshots/sessions/session3/image-upload.png" width="800" alt="image-upload">
 
-17.  Creating Items with Mutations (30min)
+17.  Creating Items with Mutations (30min) [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/ee12a1a3b8a23bd02a54179e07f4b48d65c5ac26)
     * working on sell page and pushing new items to the database
     * go to Form.js to check out how Wes did the animation for the loading bar
 16. React Meets GraphQL (26min) ➡️ [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/49b853efaa2bef5c29973a937134c20a14d0ef76)
