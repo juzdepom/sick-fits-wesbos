@@ -14,7 +14,9 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-20. Deleting Items (13min) ➡️see [commit]
+21. Displaying Single Items (14min) ➡️see [commit]
+    <img src="/screenshots/sessions/session4/single-item.png" width="600" alt="single item">
+20. Deleting Items (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/6c8a4248cd60d15f2ba928efc1b9a18832f433bd)
 
 ## Session 3
 [🔝 Table of Contents](#all-sessions)<br>
