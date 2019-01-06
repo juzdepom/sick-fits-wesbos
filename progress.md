@@ -31,11 +31,13 @@
     <img src="/screenshots/sessions/session5/mailtrap.png" width="700" alt="mailtrap">
     <img src="/screenshots/sessions/session5/resetemail.png" width="700" alt="resetemail">
 30. Frontend Password Reset Flow (15min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/136e3635c33ed043310f995b2cd5cc5287c1a3fa)
+    <br>
     * I didn't test this either😬 we'll see once the email starts working
     <img src="/screenshots/sessions/session5/reset.png" width="400" alt="reset">
 29. Backend Password Reset Flow (30min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/65390e3999ae05ed444130af56fcc24679553acb)
     <br>
     * was not able to test this so hopefully it works!
+    <br>
 28. Sign Out Button (6min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/3dad03965b054205b010afd54399135037400143)
     <br>
     <img src="/screenshots/sessions/session5/signout.png" width="700" alt="signout">
