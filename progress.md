@@ -16,6 +16,9 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
+33. Creating a Gated Sign In Component (5min) ➡️see [commit]()
+<img src="/screenshots/sessions/session5/pleasesignin.png" width="600" alt="pleasesignin">
+32. Data Relationships (6min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/51882a714b7bb1f77e47ebb018ae93971eb97a65)
 31. Sending Email (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/28c713d66245acd241111b210ca01ad60f10cd87)
     * traditionally, getting set up to send emails has been a little hard because because to sign up for an email sending service you have to sign up for a domain and do a bunch of other stuff first. In reality, when you're in dev mode, you don't want to be sending actual emails
     * Wes uses a service called [mailtrap.io](https://mailtrap.io/)
