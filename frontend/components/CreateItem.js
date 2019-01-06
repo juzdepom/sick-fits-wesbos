@@ -35,7 +35,7 @@ class CreateItem extends Component {
         title: 'Cool shoes',
         description: 'This is a descriptions',
         image: '',
-        largeImage: 'large-dog.jpg',
+        largeImage: '',
         price: 1000,
     }
     handleChange = (e) => {
