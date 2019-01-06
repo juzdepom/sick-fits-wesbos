@@ -22,6 +22,7 @@
 *📍 Koh Phangan, Thailand* <br>
 
 26. Currently Logged In User with Middleware and Render Props (19min) ➡️see [commit]()
+    * on every single request, the JWT token is going to come along for the ride; the token will be decoded on the backend and then will stick the user ID onto every single request. Then, if we need to figure out who the current user is, we can quickly query the database.
 
 25. User Signup in React (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/805ee1b4104f2c2acda6b5ee918bd1d8459e8cdf)
     <img src="/screenshots/sessions/session5/signup.png" width="600" alt="signup">
