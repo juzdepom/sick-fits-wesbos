@@ -14,7 +14,12 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-21. Displaying Single Items (14min) ➡️see [commit]
+22. Pagination (16min)
+    * if we have 1000 items, we don't want the query to fetch all 1000 items at once! This is where Prisma connections comes in.
+    <br>
+    <img src="/screenshots/sessions/session4/pagination.png" width="400" alt="pagination">
+21. Displaying Single Items (14min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/15e3b9c892f3beb6ea2af22ebdffcefba8a053c2)
+    <br>
     <img src="/screenshots/sessions/session4/single-item.png" width="600" alt="single item">
 20. Deleting Items (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/6c8a4248cd60d15f2ba928efc1b9a18832f433bd)
 
