@@ -21,7 +21,15 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-30. Frontend Password Reset Flow (15min) ➡️see [commit]()
+31. Sending Email (12min) ➡️see [commit]()
+    * traditionally, getting set up to send emails has been a little hard because because to sign up for an email sending service you have to sign up for a domain and do a bunch of other stuff first. In reality, when you're in dev mode, you don't want to be sending actual emails
+    * Wes uses a service called [mailtrap.io](https://mailtrap.io/)
+    * When your production goes live, you can use something like Postmark
+    * the best way to send email with node.js is NodeMailer
+    * you can code emails in React with [mjml.io](https://mjml.io/)
+    <img src="/screenshots/sessions/session5/mailtrap.png" width="700" alt="mailtrap">
+    <img src="/screenshots/sessions/session5/resetemail.png" width="700" alt="resetemail">
+30. Frontend Password Reset Flow (15min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/136e3635c33ed043310f995b2cd5cc5287c1a3fa)
     * I didn't test this either😬 we'll see once the email starts working
     <img src="/screenshots/sessions/session5/reset.png" width="400" alt="reset">
 29. Backend Password Reset Flow (30min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/65390e3999ae05ed444130af56fcc24679553acb)
