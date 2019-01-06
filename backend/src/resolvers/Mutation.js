@@ -5,8 +5,6 @@ const { randomBytes } = require('crypto');
 const { promisify } = require('util');
 const { transport, makeANiceEmail } = require('../mail');
 
-
-
 const Mutations = {
     async createItem(parent, args, ctx, info){
         // TODO: check if they are logged in

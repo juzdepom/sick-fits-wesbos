@@ -6,6 +6,8 @@
 * [Session 2](#session-2) - Lecture 5-11
 * [Session 3](#session-3) - Lecture 12-19
 * [Session 4](#session-4) - Lecture 20-24
+* [Session 5](#session-5) - Lecture 25-34
+
 
 
 
@@ -13,10 +15,12 @@
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 M, Jan 7, 2019* <br>
 *💬 Lectures: 25-X* <br>
-*🕐 All Day* <br>
+*🕐 Midnight-* <br>
 *📍 Koh Phangan, Thailand* <br>
 
 34. Permissions Management (23min) ➡️see [commit]()
+    * At this point, the permissions doesn't do anything yet, we still have to code a whole lot of logic and mutations. So far, what we have done is: we've queried all of the possible users, we did a whole bunch of work on the backend to make sure that anyone who is running this query  DO have access, we are checking for errors and displaying if there are any and we're taking all of the possible permissions, looping over them and looping over all of the users, and for each user, we loop over the possible permissions and output a checkbox;
+    <img src="/screenshots/sessions/session5/permissions.png" width="700" alt="permissions">
 33. Creating a Gated Sign In Component (5min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/e12ab70b81f2422f90202a44f75dddc35e13f5b8)
 <br>
 <img src="/screenshots/sessions/session5/pleasesignin.png" width="600" alt="pleasesignin">
