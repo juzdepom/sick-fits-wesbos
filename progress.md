@@ -14,7 +14,10 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-23. Pagination and Cache Invalidation (10min)
+24. User Signup and Permission Flow (23min) ➡️see [commit]()
+    * by putting the JWT in a cookie, it's going to allow us to send along the JWT every single request and we'll be able to server render the authenticated user
+    <img src="/screenshots/sessions/session4/prisma.png" width="600" alt="prisma">
+23. Pagination and Cache Invalidation (10min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/a946aede24b863517681d11505990fea56109e8b)
 22. Pagination (16min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/55d375acd46f919dfab5aa1767f5d758aca5f42a)
     * if we have 1000 items, we don't want the query to fetch all 1000 items at once! This is where Prisma connections comes in.
     <br>
