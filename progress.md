@@ -6,19 +6,21 @@
 * [Session 2](#session-2) - Lecture 5-11
 * [Session 3](#session-3) - Lecture 12-19
 * [Session 4](#session-4) - Lecture 20-X
-4
-## Session44
+
+## Session4
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 Su, Jan 6, 2019* <br>
 *💬 Lectures: 20-X* <br>
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-22. Pagination (16min)
+23. Pagination and Cache Invalidation (10min)
+22. Pagination (16min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/55d375acd46f919dfab5aa1767f5d758aca5f42a)
     * if we have 1000 items, we don't want the query to fetch all 1000 items at once! This is where Prisma connections comes in.
     <br>
     <img src="/screenshots/sessions/session4/pagination.png" width="400" alt="pagination">
 21. Displaying Single Items (14min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/15e3b9c892f3beb6ea2af22ebdffcefba8a053c2)
+    <br>
     <br>
     <img src="/screenshots/sessions/session4/single-item.png" width="600" alt="single item">
 20. Deleting Items (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/6c8a4248cd60d15f2ba928efc1b9a18832f433bd)
