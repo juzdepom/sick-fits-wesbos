@@ -7,12 +7,7 @@
 * [Session 3](#session-3) - Lecture 12-19
 * [Session 4](#session-4) - Lecture 20-24
 
-## Session 5
-[🔝 Table of Contents](#all-sessions)<br>
-*🗓 M, Jan 7, 2019* <br>
-*💬 Lectures: 25-X* <br>
-*🕐 All Day* <br>
-*📍 Koh Phangan, Thailand* <br>
+
 
 ## Session 5
 [🔝 Table of Contents](#all-sessions)<br>
@@ -21,7 +16,7 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-31. Sending Email (12min) ➡️see [commit]()
+31. Sending Email (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/28c713d66245acd241111b210ca01ad60f10cd87)
     * traditionally, getting set up to send emails has been a little hard because because to sign up for an email sending service you have to sign up for a domain and do a bunch of other stuff first. In reality, when you're in dev mode, you don't want to be sending actual emails
     * Wes uses a service called [mailtrap.io](https://mailtrap.io/)
     * When your production goes live, you can use something like Postmark
