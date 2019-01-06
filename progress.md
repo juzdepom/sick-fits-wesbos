@@ -5,16 +5,26 @@
 * [Session 1](#session-1) - Lecture 1-4
 * [Session 2](#session-2) - Lecture 5-11
 * [Session 3](#session-3) - Lecture 12-19
-* [Session 4](#session-4) - Lecture 20-X
+* [Session 4](#session-4) - Lecture 20-24
 
-## Session4
+## Session 5
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 M, Jan 7, 2019* <br>
+*💬 Lectures: 25-X* <br>
+*🕐 All Day* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+25. User Signup in React (12min)
+    <img src="/screenshots/sessions/session5/signup.png" width="600" alt="signup">
+
+## Session 4
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 Su, Jan 6, 2019* <br>
 *💬 Lectures: 20-X* <br>
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-24. User Signup and Permission Flow (23min) ➡️see [commit]()
+24. User Signup and Permission Flow (23min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/9514f0d1c241bee3c2d13b95b4ef0dfa937696bc)
     * by putting the JWT in a cookie, it's going to allow us to send along the JWT every single request and we'll be able to server render the authenticated user
     <img src="/screenshots/sessions/session4/prisma.png" width="600" alt="prisma">
 23. Pagination and Cache Invalidation (10min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/a946aede24b863517681d11505990fea56109e8b)
