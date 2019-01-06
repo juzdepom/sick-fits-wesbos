@@ -16,10 +16,13 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-33. Creating a Gated Sign In Component (5min) ➡️see [commit]()
+34. Permissions Management (23min) ➡️see [commit]()
+33. Creating a Gated Sign In Component (5min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/e12ab70b81f2422f90202a44f75dddc35e13f5b8)
+<br>
 <img src="/screenshots/sessions/session5/pleasesignin.png" width="600" alt="pleasesignin">
 32. Data Relationships (6min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/51882a714b7bb1f77e47ebb018ae93971eb97a65)
-31. Sending Email (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/28c713d66245acd241111b210ca01ad60f10cd87)
+<br>
+31. Sending Email (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/28c713d66245acd241111b210ca01ad60f10cd87) <br>
     * traditionally, getting set up to send emails has been a little hard because because to sign up for an email sending service you have to sign up for a domain and do a bunch of other stuff first. In reality, when you're in dev mode, you don't want to be sending actual emails
     * Wes uses a service called [mailtrap.io](https://mailtrap.io/)
     * When your production goes live, you can use something like Postmark
@@ -31,8 +34,10 @@
     * I didn't test this either😬 we'll see once the email starts working
     <img src="/screenshots/sessions/session5/reset.png" width="400" alt="reset">
 29. Backend Password Reset Flow (30min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/65390e3999ae05ed444130af56fcc24679553acb)
+    <br>
     * was not able to test this so hopefully it works!
 28. Sign Out Button (6min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/3dad03965b054205b010afd54399135037400143)
+    <br>
     <img src="/screenshots/sessions/session5/signout.png" width="700" alt="signout">
 
 27. Sign in Form and Custom Error Handling (17min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/37b792548c997aa5b89ca49696420b1d18c9ab5e)
