@@ -13,6 +13,8 @@
 *🕐 All Day* <br>
 *📍 Ko Phangan, Thailand* <br>
 
+19. Updating Items with Queries and Mutations (26min) ➡️see [commit]()
+    * 
 18. Uploading Images (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/1e2a0a545df4e8f83b027e7d021bbb94f908a311)
     * created an account on cloudinary <-- we are going to upload images to this external service
     * cloudinary is awesome because it can do transformations. It can do image compressions, resizing of images, cropping, applying filters...they also give you 10 GB for free
