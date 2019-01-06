@@ -14,7 +14,16 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-25. User Signup in React (12min)
+## Session 5
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 M, Jan 7, 2019* <br>
+*💬 Lectures: 25-X* <br>
+*🕐 All Day* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+26. Currently Logged In User with Middleware and Render Props (19min) ➡️see [commit]()
+
+25. User Signup in React (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/805ee1b4104f2c2acda6b5ee918bd1d8459e8cdf)
     <img src="/screenshots/sessions/session5/signup.png" width="600" alt="signup">
 
 ## Session 4
