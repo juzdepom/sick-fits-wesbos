@@ -21,7 +21,10 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-27. Sign in Form and Custom Error Handling (17min) ➡️see [commit]()
+28. Sign Out Button (6min) ➡️see [commit]()
+    <img src="/screenshots/sessions/session5/signout.png" width="700" alt="signout">
+
+27. Sign in Form and Custom Error Handling (17min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/37b792548c997aa5b89ca49696420b1d18c9ab5e)
     * hopefully by this time you're getting used to the cadence of "adding in the schema, adding in the resolver, either a query or mutation, flip over to the front end, build some sort of interface for it and then manage it from there.
 
 26. Currently Logged In User with Middleware and Render Props (19min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/21a146497a3d838468e2f7e3f652fa3f1c36abe4)
