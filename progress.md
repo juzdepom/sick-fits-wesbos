@@ -4,17 +4,27 @@
 ## All Sessions
 * [Session 1](#session-1) - Lecture 1-4
 * [Session 2](#session-2) - Lecture 5-11
-* [Session 3](#session-3) - Lecture 12-X
+* [Session 3](#session-3) - Lecture 12-19
+* [Session 4](#session-4) - Lecture 20-X
+4
+## Session44
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 Su, Jan 6, 2019* <br>
+*💬 Lectures: 20-X* <br>
+*🕐 All Day* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+20. Deleting Items (13min) ➡️see [commit]
 
 ## Session 3
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 Sat, Jan 5, 2019* <br>
-*💬 Lectures: 12-X* <br>
+*💬 Lectures: 12-19* <br>
 *🕐 All Day* <br>
-*📍 Ko Phangan, Thailand* <br>
+*📍 Koh Phangan, Thailand* <br>
 
-19. Updating Items with Queries and Mutations (26min) ➡️see [commit]()
-    * 
+19. Updating Items with Queries and Mutations (26min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/45f7e1f4a0fbf9a59232b4fea2d67522bc2a81d6)
+    * I had to rewatch this video twice because I made an error!
 18. Uploading Images (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/1e2a0a545df4e8f83b027e7d021bbb94f908a311)
     * created an account on cloudinary <-- we are going to upload images to this external service
     * cloudinary is awesome because it can do transformations. It can do image compressions, resizing of images, cropping, applying filters...they also give you 10 GB for free
