@@ -21,7 +21,10 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-26. Currently Logged In User with Middleware and Render Props (19min) ➡️see [commit]()
+27. Sign in Form and Custom Error Handling (17min) ➡️see [commit]()
+    * hopefully by this time you're getting used to the cadence of "adding in the schema, adding in the resolver, either a query or mutation, flip over to the front end, build some sort of interface for it and then manage it from there.
+
+26. Currently Logged In User with Middleware and Render Props (19min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/21a146497a3d838468e2f7e3f652fa3f1c36abe4)
     * on every single request, the JWT token is going to come along for the ride; the token will be decoded on the backend and then will stick the user ID onto every single request. Then, if we need to figure out who the current user is, we can quickly query the database.
 
 25. User Signup in React (12min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/805ee1b4104f2c2acda6b5ee918bd1d8459e8cdf)
