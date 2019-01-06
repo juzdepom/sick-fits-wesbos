@@ -21,7 +21,9 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-28. Sign Out Button (6min) ➡️see [commit]()
+29. Backend Password Reset Flow (30min)
+    * was not able to test this so hopefully it works!
+28. Sign Out Button (6min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/3dad03965b054205b010afd54399135037400143)
     <img src="/screenshots/sessions/session5/signout.png" width="700" alt="signout">
 
 27. Sign in Form and Custom Error Handling (17min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/37b792548c997aa5b89ca49696420b1d18c9ab5e)
