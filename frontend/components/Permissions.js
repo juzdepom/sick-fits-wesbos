@@ -92,16 +92,16 @@ class UserPermissions extends React.Component {
     render() {
         const user = this.props.user;
         return (
-        // <Mutation
-        //     mutation={UPDATE_PERMISSIONS_MUTATION}
-        //     variables={{
-        //     permissions: this.state.permissions,
-        //     userId: this.props.user.id,
-        //     }}
-        // >
-        //     {(updatePermissions, { loading, error }) => (
+        <Mutation
+            mutation={UPDATE_PERMISSIONS_MUTATION}
+            variables={{
+            permissions: this.state.permissions,
+            userId: this.props.user.id,
+            }}
+        >
+            {(updatePermissions, { loading, error }) => (
             <>
-                {/* {error && <tr><td colspan="8"><Error error={error} /></td></tr>} */}
+                {error && <tr><td colspan="8"><Error error={error} /></td></tr>}
                 <tr >
                 <td>{user.name}</td>
                 <td>{user.email}</td>
@@ -122,17 +122,16 @@ class UserPermissions extends React.Component {
                 <td>
                     <SickButton
                         type="button"
-                        // disabled={loading}
-                        // onClick={updatePermissions}
+                        disabled={loading}
+                        onClick={updatePermissions}
                     >
-                    Update
-                    {/* Updat{loading ? 'ing' : 'e'} */}
+                    Updat{loading ? 'ing' : 'e'}
                     </SickButton>
                 </td>
                 </tr>
             </>
-            // )}
-        // </Mutation>
+            )}
+        </Mutation>
         );
     }
 }
