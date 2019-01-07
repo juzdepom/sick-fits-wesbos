@@ -10,16 +10,17 @@
 * [Session 6](#session-6) - Lecture 35-X
 
 
-
 ## Session 6
 [🔝 Table of Contents](#all-sessions)<br>
-*🗓 M, Jan 7, 2019* <br>
+*🗓 T, Jan 9, 2019* <br>
 *💬 Lectures: 35-X* <br>
-*🕐 X* <br>
+*🕐 3:30AM-* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-35. Updating Permissions in Local State (13min)
-
+35. Updating Permissions in Local State (13min) ➡️see [commit]
+    <br>
+    <img src="/screenshots/sessions/session6/permissions.png" width="700" alt="permissions">
+    <br>
 ## Session 5
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 M, Jan 7, 2019* <br>

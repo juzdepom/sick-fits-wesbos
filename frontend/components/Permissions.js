@@ -61,30 +61,34 @@ const Permissions = props => (
 );
 
 class UserPermissions extends React.Component {
-    // static propTypes = {
-    //     user: PropTypes.shape({
-    //     name: PropTypes.string,
-    //     email: PropTypes.string,
-    //     id: PropTypes.string,
-    //     permissions: PropTypes.array,
-    //     }).isRequired,
-    // };
-    // state = {
-    //     permissions: this.props.user.permissions,
-    // };
-    // handlePermissionChange = (e) => {
-    //     const checkbox = e.target;
-    //     // take a copy of the current permissions
-    //     let updatedPermissions = [...this.state.permissions];
-    //     // figure out if we need to remove or add this permission
-    //     if (checkbox.checked) {
-    //     // add it in!
-    //     updatedPermissions.push(checkbox.value);
-    //     } else {
-    //     updatedPermissions = updatedPermissions.filter(permission => permission !== checkbox.value);
-    //     }
-    //     this.setState({ permissions: updatedPermissions });
-    // };
+    static propTypes = {
+        user: PropTypes.shape({
+        name: PropTypes.string,
+        email: PropTypes.string,
+        id: PropTypes.string,
+        permissions: PropTypes.array,
+        }).isRequired,
+    };
+    state = {
+        //it's usually bad practice to use props to populate state
+        //if props were ever to change in higher level, they would never be updated in state
+        //however, this is fine when you are using it as SEEDING of initial
+        permissions: this.props.user.permissions,
+    };
+    handlePermissionChange = (e) => {
+        const checkbox = e.target;
+        // take a copy of the current permissions
+        let updatedPermissions = [...this.state.permissions];
+        // figure out if we need to remove or add this permission
+        if (checkbox.checked) {
+            // add it in!
+            updatedPermissions.push(checkbox.value);
+        } else {
+            updatedPermissions = updatedPermissions.filter(permission => permission !== checkbox.value);
+        }
+        //if you didn't have this the box wouldn't check
+        this.setState({ permissions: updatedPermissions });
+    };
     render() {
         const user = this.props.user;
         return (
@@ -102,15 +106,15 @@ class UserPermissions extends React.Component {
                 <td>{user.name}</td>
                 <td>{user.email}</td>
                 {possiblePermissions.map(permission => (
-                    <td>
-                    {/* <td key={permission}> */}
+                    <td key={permission}>
                     <label htmlFor={`${user.id}-permission-${permission}`}>
                         <input
                         id={`${user.id}-permission-${permission}`}
                         type="checkbox"
-                        // checked={this.state.permissions.includes(permission)}
-                        // value={permission}
-                        // onChange={this.handlePermissionChange}
+                        checked={this.state.permissions.includes(permission)}
+                        value={permission}
+                        //when someone checks/unchecks the checkbox we can put the value into state
+                        onChange={this.handlePermissionChange}
                         />
                     </label>
                     </td>
