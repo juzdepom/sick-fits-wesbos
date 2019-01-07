@@ -17,8 +17,8 @@
 *🕐 3:30AM-* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-36. Updating Permissions on the Server (19min)
-
+36. Updating Permissions on the Server (19min) ➡️see [commit1](https://github.com/juzdepom/sick-fits-wesbos/commit/e1c0bf4ef82c8f441bbbba9d68ed4e9d18d0746d) [commit2](https://github.com/juzdepom/sick-fits-wesbos/commit/8e1238eb75db029c1540f2725e961108ca0cef66)
+    * Wes also shows how to make it so that the user permissions update automatically (we reverted the code so it won't show in the code; however, if you watch the end of this video, he will show you how)
 35. Updating Permissions in Local State (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/753b843f0b0db7ab89ee4dbaa5f2b1001392b082)
     <br>
     <img src="/screenshots/sessions/session6/permissions.png" width="700" alt="permissions">
