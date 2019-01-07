@@ -17,7 +17,9 @@
 *🕐 3:30AM-* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-35. Updating Permissions in Local State (13min) ➡️see [commit]
+36. Updating Permissions on the Server (19min)
+
+35. Updating Permissions in Local State (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/753b843f0b0db7ab89ee4dbaa5f2b1001392b082)
     <br>
     <img src="/screenshots/sessions/session6/permissions.png" width="700" alt="permissions">
     <br>
