@@ -7,8 +7,18 @@
 * [Session 3](#session-3) - Lecture 12-19
 * [Session 4](#session-4) - Lecture 20-24
 * [Session 5](#session-5) - Lecture 25-34
-* [Session 6](#session-6) - Lecture 35-X
+* [Session 6](#session-6) - Lecture 35-38
+* [Session 7](#session-7) - Lecture 39-X
 
+## Session 7
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 Th, Jan 10, 2019* <br>
+*💬 Lectures: 39-X* <br>
+*🕐 Noon - X* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+39. Apollo Local State Queries and Mutations (13min)
+    * Can now open and close the "My Cart" tab!
 
 ## Session 6
 [🔝 Table of Contents](#all-sessions)<br>
@@ -16,8 +26,6 @@
 *💬 Lectures: 35-X* <br>
 *🕐 3:30AM-* <br>
 *📍 Koh Phangan, Thailand* <br>
-
-39. Apollo Local State Queries and Mutations (13min)
 
 38. Creating our cart in React (5min) ➡️see [commit]
     <br>
