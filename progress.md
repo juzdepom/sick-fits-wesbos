@@ -17,7 +17,8 @@
 *🕐 Noon - X* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-39. Apollo Local State Queries and Mutations (13min)
+40. Server Side Add To Cart (17min) ➡️see [commit]()
+39. Apollo Local State Queries and Mutations (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/3f2988ca7425c264eb4bdc0abd25a13cf6ba155e)
     * Can now open and close the "My Cart" tab!
 
 ## Session 6
