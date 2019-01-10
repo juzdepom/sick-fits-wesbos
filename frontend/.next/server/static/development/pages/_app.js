@@ -536,13 +536,13 @@ var Nav = function Nav() {
       href: "/signup",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 45
+        lineNumber: 37
       },
       __self: this
     }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 46
+        lineNumber: 38
       },
       __self: this
     }, "Sign In")));
