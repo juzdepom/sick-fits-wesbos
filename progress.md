@@ -12,12 +12,27 @@
 * [Session 8](#session-8) - Lecture 41
 * [Session 9](#session-9) - Lecture 42-X
 
+## Session 10
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 S, Jan 12, 2019* <br>
+*💬 Lectures: X* <br>
+*🕐 X* <br>
+*📍 Koh Phangan, Thailand* <br>
+
 ## Session 9
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 S, Jan 12, 2019* <br>
-*💬 Lectures: 41-X* <br>
-*🕐 4am-X* <br>
+*💬 Lectures: 41-48* <br>
+*🕐 4am-6:30am* <br>
 *📍 Koh Phangan, Thailand* <br>
+
+48. Autocomplete with Downshift (13min) ➡️see [commit]()
+    * the functionality that downshift provides us is the ability to use the arrow keys, to automatically close the search bar when clicking outside the window or pressing the escape key
+
+47. Search Dropdown Autocomplete (18min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/26a6ed5ad808e8953600d2148a9c523fe7a319db)
+    <br>
+        <img src="/screenshots/sessions/session8/search.png" width="250" alt="search">
+    <br>
 
 46. Cleaning Up This Render Prop Mess (6min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/61917c2e67ff907c83811f8fd3f053e717467781)
 
