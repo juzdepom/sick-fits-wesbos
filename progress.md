@@ -19,7 +19,9 @@
 *🕐 4am-X* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-45. Dealing with Deleted Items in Cart Items (3min)
+46. Cleaning Up This Render Prop Mess (6min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/61917c2e67ff907c83811f8fd3f053e717467781)
+
+45. Dealing with Deleted Items in Cart Items (3min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/1ef8208426fd4003d48c99184cd42588fc7ccaa4)
 
 44. Animating our Cart Count Component (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/958447f879e7532b2361939e817a71a78a6c54ec)
 
