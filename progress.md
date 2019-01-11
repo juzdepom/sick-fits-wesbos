@@ -19,7 +19,11 @@
 *🕐 4am-X* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-42. Removing Cart Items (11min)
+44. Animating our Cart Count Component (13min)
+
+43. Optimistic Response && Cache Updates with Apollo (8min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/30bd5bbea0a2fc23f159116de42b88d47a80dcad)
+
+42. Removing Cart Items (11min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/bcde9a546f755c008a22af44321f2dab79cfb1de)
 
 ## Session 8
 [🔝 Table of Contents](#all-sessions)<br>
@@ -28,7 +32,7 @@
 *🕐 6pm* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-41. Displaying Cart Items and Totals (20min) ➡️see [commit]()
+41. Displaying Cart Items and Totals (20min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/46407e8caa230202c8c865629c85589a3681acad)
 <br>
     <img src="/screenshots/sessions/session8/cart.png" width="250" alt="cart">
 <br>
