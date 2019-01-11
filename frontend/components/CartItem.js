@@ -21,11 +21,12 @@ const CartItemStyles = styled.li`
 
 const CartItem = ({ cartItem }) => {
     // first check if that item exists
+    // in case someone deleted the item
     if (!cartItem.item)
         return (
         <CartItemStyles>
             <p>This Item has been removed</p>
-            {/* <RemoveFromCart id={cartItem.id} /> */}
+            <RemoveFromCart id={cartItem.id} />
         </CartItemStyles>
         );
     return (

@@ -19,7 +19,9 @@
 *🕐 4am-X* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-44. Animating our Cart Count Component (13min)
+45. Dealing with Deleted Items in Cart Items (3min)
+
+44. Animating our Cart Count Component (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/958447f879e7532b2361939e817a71a78a6c54ec)
 
 43. Optimistic Response && Cache Updates with Apollo (8min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/30bd5bbea0a2fc23f159116de42b88d47a80dcad)
 
