@@ -8,23 +8,46 @@
 * [Session 4](#session-4) - Lecture 20-24
 * [Session 5](#session-5) - Lecture 25-34
 * [Session 6](#session-6) - Lecture 35-38
-* [Session 7](#session-7) - Lecture 39-X
+* [Session 7](#session-7) - Lecture 39-40
+* [Session 8](#session-8) - Lecture 41
+* [Session 9](#session-9) - Lecture 42-X
+
+## Session 9
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 S, Jan 12, 2019* <br>
+*💬 Lectures: 41-X* <br>
+*🕐 4am-X* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+42. Removing Cart Items (11min)
+
+## Session 8
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 F, Jan 11, 2019* <br>
+*💬 Lectures: 41-X* <br>
+*🕐 6pm* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+41. Displaying Cart Items and Totals (20min) ➡️see [commit]()
+<br>
+    <img src="/screenshots/sessions/session8/cart.png" width="250" alt="cart">
+<br>
 
 ## Session 7
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 Th, Jan 10, 2019* <br>
-*💬 Lectures: 39-X* <br>
-*🕐 Noon - X* <br>
+*💬 Lectures: 39-40* <br>
+*🕐 Noon - 2pm* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-40. Server Side Add To Cart (17min) ➡️see [commit]()
+40. Server Side Add To Cart (17min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/04ad52f2ca77e1cad6fd3fc8d0cac30bdb1aafb2)
 39. Apollo Local State Queries and Mutations (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/3f2988ca7425c264eb4bdc0abd25a13cf6ba155e)
     * Can now open and close the "My Cart" tab!
 
 ## Session 6
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 T, Jan 9, 2019* <br>
-*💬 Lectures: 35-X* <br>
+*💬 Lectures: 35-38* <br>
 *🕐 3:30AM-* <br>
 *📍 Koh Phangan, Thailand* <br>
 

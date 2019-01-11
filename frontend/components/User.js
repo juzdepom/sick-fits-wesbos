@@ -12,17 +12,17 @@ const CURRENT_USER_QUERY = gql`
             # orders {
             #     id
             # }
-            # cart {
-            #     id
-            #     quantity
-            #     item {
-            #     id
-            #     price
-            #     image
-            #     title
-            #     description
-            #     }
-            # }
+            cart {
+                id
+                quantity
+                item {
+                id
+                price
+                image
+                title
+                description
+                }
+            }
         }
     }
 `;
