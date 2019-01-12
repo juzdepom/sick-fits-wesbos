@@ -19,6 +19,17 @@
 *🕐 X* <br>
 *📍 Koh Phangan, Thailand* <br>
 
+50. Charging Cards on the Server Side (18min)
+
+
+49. Credit Card Processing with Stripe Checkout (17min) ➡️see [commit]()
+    * Wes Bos really likes Stripe, says it is very developer friendly
+    * what happens is we put our credit card number in the Stripe from is that Stripe creates a token that then takes it server side. We don't actually want to send the credit card details to our server
+    * stripe has a bunch of dummy credit cards that you can use ot test. See them [here](https://stripe.com/docs/testing)
+    <br>
+        <img src="/screenshots/sessions/session10/chargecard.png" width="250" alt="chargecard">
+    <br>
+
 ## Session 9
 [🔝 Table of Contents](#all-sessions)<br>
 *🗓 S, Jan 12, 2019* <br>
@@ -26,7 +37,7 @@
 *🕐 4am-6:30am* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-48. Autocomplete with Downshift (13min) ➡️see [commit]()
+48. Autocomplete with Downshift (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/eadac3be72875653273d0f1cf591e6334e23f174)
     * the functionality that downshift provides us is the ability to use the arrow keys, to automatically close the search bar when clicking outside the window or pressing the escape key
 
 47. Search Dropdown Autocomplete (18min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/26a6ed5ad808e8953600d2148a9c523fe7a319db)
