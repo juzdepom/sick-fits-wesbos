@@ -20,15 +20,18 @@
 *📍 Koh Phangan, Thailand* <br>
 
 50. Charging Cards on the Server Side (18min)
+    <br>
+        <img src="/screenshots/sessions/session10/stripe.png" width="500" alt="stripe">
+    <br>
 
-
-49. Credit Card Processing with Stripe Checkout (17min) ➡️see [commit]()
+49. Credit Card Processing with Stripe Checkout (17min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/328f98306f94635bac59b1ca58dea52da827aa10)
     * Wes Bos really likes Stripe, says it is very developer friendly
     * what happens is we put our credit card number in the Stripe from is that Stripe creates a token that then takes it server side. We don't actually want to send the credit card details to our server
-    * stripe has a bunch of dummy credit cards that you can use ot test. See them [here](https://stripe.com/docs/testing)
+    * stripe has a bunch of dummy credit cards that you can use to test. See them [here](https://stripe.com/docs/testing)
     <br>
         <img src="/screenshots/sessions/session10/chargecard.png" width="250" alt="chargecard">
     <br>
+
 
 ## Session 9
 [🔝 Table of Contents](#all-sessions)<br>
