@@ -23,8 +23,15 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-54. Testing with Jest and Enzyme Introduction (8min) ➡️see [commit]()
+55. Unit Testing 101 (17min) ➡️see [commit]()
+    * `npm run test`
+    <br>
+        <img src="/screenshots/sessions/session11/test.png" width="700" alt="test">
+    <br>
 
+54. Testing with Jest and Enzyme Introduction (8min)
+    * Jest is a tool that you run from your command line that looks for tests
+    * Enzyme is made specially for React
 
 53. Orders Page (14min) ➡️see [commit]()
     <br>
