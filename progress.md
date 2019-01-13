@@ -23,7 +23,8 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-51. Saving Orders to the Database (13min) ➡️see [commit]()
+52. Displaying Single Orders (18min) ➡️see [commit]
+51. Saving Orders to the Database (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/9139889511f0c84e97038db01771a752c6a65994)
     <br>
         <img src="/screenshots/sessions/session11/order.png" width="500" alt="order">
     <br>
