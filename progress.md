@@ -2,19 +2,28 @@
 * ```insert url here```
 
 ## All Sessions
-- [Sick Fits](#sick-fits)
-  - [All Sessions](#all-sessions)
-  - [Session 11](#session-11)
-  - [Session 10](#session-10)
-  - [Session 9](#session-9)
-  - [Session 8](#session-8)
-  - [Session 7](#session-7)
-  - [Session 6](#session-6)
-  - [Session 5](#session-5)
-  - [Session 4](#session-4)
-  - [Session 3](#session-3)
-  - [Session 2](#session-2)
-  - [Session 1](#session-1)
+    - [Session 11](#session-11)
+    - [Session 10](#session-10)
+    - [Session 9](#session-9)
+    - [Session 8](#session-8)
+    - [Session 7](#session-7)
+    - [Session 6](#session-6)
+    - [Session 5](#session-5)
+    - [Session 4](#session-4)
+    - [Session 3](#session-3)
+    - [Session 2](#session-2)
+    - [Session 1](#session-1)
+
+## Session 12
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 M, Jan 14, 2019* <br>
+*💬 Lectures: 57-X* <br>
+*🕐 All Day* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+58. Snapshot Testing (16min) ➡️see [commit]
+
+57. First Tests and Shallow Rendering (15min) ➡️see [commit]
 
 ## Session 11
 [🔝 Table of Contents](#all-sessions)<br>
@@ -24,7 +33,7 @@
 *📍 Koh Phangan, Thailand* <br>
 
 56. Mocking 101 (10min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/4a66cf585426e7ec756b7a35128f6e11a5c4d313)
-    * what mocking is is that sometimes you'll have a piece of code that is connected to another piece of your application. You might have some code that hits an API endpoint. Generally what happens is that these things reach outside of your application to an external service or to another piece of your application. External requests would make your tests really slow 
+    * what mocking is is that sometimes you'll have a piece of code that is connected to another piece of your application. You might have some code that hits an API endpoint. Generally what happens is that these things reach outside of your application to an external service or to another piece of your application. External requests would make your tests really slow
 
 55. Unit Testing 101 (17min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/bff1087bc1c4571ac2fe265af915eb15c7557ae2)
     * `npm run test`
