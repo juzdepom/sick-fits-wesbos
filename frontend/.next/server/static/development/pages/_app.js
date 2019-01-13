@@ -1637,9 +1637,9 @@ function (_React$Component) {
           while (1) {
             switch (_context.prev = _context.next) {
               case 0:
-                console.log('On Token Called');
-                console.log(res.id);
-                _context.next = 4;
+                nprogress__WEBPACK_IMPORTED_MODULE_5___default.a.start(); // manually call the mutation once we have the stripe token
+
+                _context.next = 3;
                 return createOrder({
                   variables: {
                     token: res.id
@@ -1648,11 +1648,16 @@ function (_React$Component) {
                   alert(err.message);
                 });
 
-              case 4:
+              case 3:
                 order = _context.sent;
-                console.log(order);
+                next_router__WEBPACK_IMPORTED_MODULE_4___default.a.push({
+                  pathname: '/order',
+                  query: {
+                    id: order.data.createOrder.id
+                  }
+                });
 
-              case 6:
+              case 5:
               case "end":
                 return _context.stop();
             }
@@ -1670,21 +1675,6 @@ function (_React$Component) {
 
   _createClass(TakeMyMoney, [{
     key: "render",
-    // onToken = async (res, createOrder) => {
-    //     NProgress.start();
-    //     // manually call the mutation once we have the stripe token
-    //     const order = await createOrder({
-    //         variables: {
-    //         token: res.id,
-    //         },
-    //     }).catch(err => {
-    //         alert(err.message);
-    //     });
-    //     Router.push({
-    //         pathname: '/order',
-    //         query: { id: order.data.createOrder.id },
-    //     });
-    // };
     value: function render() {
       var _this2 = this;
 
