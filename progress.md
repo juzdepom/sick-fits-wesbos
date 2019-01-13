@@ -23,7 +23,10 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-55. Unit Testing 101 (17min) ➡️see [commit]()
+56. Mocking 101 (10min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/4a66cf585426e7ec756b7a35128f6e11a5c4d313)
+    * what mocking is is that sometimes you'll have a piece of code that is connected to another piece of your application. You might have some code that hits an API endpoint. Generally what happens is that these things reach outside of your application to an external service or to another piece of your application. External requests would make your tests really slow 
+
+55. Unit Testing 101 (17min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/bff1087bc1c4571ac2fe265af915eb15c7557ae2)
     * `npm run test`
     <br>
         <img src="/screenshots/sessions/session11/test.png" width="700" alt="test">
