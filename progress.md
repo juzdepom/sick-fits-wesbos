@@ -2,15 +2,31 @@
 * ```insert url here```
 
 ## All Sessions
-* [Session 1](#session-1) - Lecture 1-4
-* [Session 2](#session-2) - Lecture 5-11
-* [Session 3](#session-3) - Lecture 12-19
-* [Session 4](#session-4) - Lecture 20-24
-* [Session 5](#session-5) - Lecture 25-34
-* [Session 6](#session-6) - Lecture 35-38
-* [Session 7](#session-7) - Lecture 39-40
-* [Session 8](#session-8) - Lecture 41
-* [Session 9](#session-9) - Lecture 42-X
+- [Sick Fits](#sick-fits)
+  - [All Sessions](#all-sessions)
+  - [Session 11](#session-11)
+  - [Session 10](#session-10)
+  - [Session 9](#session-9)
+  - [Session 8](#session-8)
+  - [Session 7](#session-7)
+  - [Session 6](#session-6)
+  - [Session 5](#session-5)
+  - [Session 4](#session-4)
+  - [Session 3](#session-3)
+  - [Session 2](#session-2)
+  - [Session 1](#session-1)
+
+## Session 11
+[🔝 Table of Contents](#all-sessions)<br>
+*🗓 Su, Jan 13, 2019* <br>
+*💬 Lectures: 51-X* <br>
+*🕐 All Day* <br>
+*📍 Koh Phangan, Thailand* <br>
+
+51. Saving Orders to the Database (13min) ➡️see [commit]()
+    <br>
+        <img src="/screenshots/sessions/session11/order.png" width="500" alt="order">
+    <br>
 
 ## Session 10
 [🔝 Table of Contents](#all-sessions)<br>
@@ -19,7 +35,7 @@
 *🕐 X* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-50. Charging Cards on the Server Side (18min)
+50. Charging Cards on the Server Side (18min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/d1e203e2b1deb2470812109ecad4a02046601f4c)
     <br>
         <img src="/screenshots/sessions/session10/stripe.png" width="500" alt="stripe">
     <br>
