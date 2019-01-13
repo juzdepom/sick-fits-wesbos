@@ -23,7 +23,16 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-52. Displaying Single Orders (18min) ➡️see [commit]
+54. Testing with Jest and Enzyme Introduction (8min) ➡️see [commit]()
+
+
+53. Orders Page (14min) ➡️see [commit]()
+    <br>
+        <img src="/screenshots/sessions/session11/orders.png" width="700" alt="orders">
+    <br>
+
+52. Displaying Single Orders (18min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/c041ef699e748f8ea11307f95b07cc8ccfce07bb)
+
 51. Saving Orders to the Database (13min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/9139889511f0c84e97038db01771a752c6a65994)
     <br>
         <img src="/screenshots/sessions/session11/order.png" width="500" alt="order">
