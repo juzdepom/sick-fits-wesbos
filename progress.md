@@ -21,9 +21,11 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-58. Snapshot Testing (16min) ➡️see [commit]
+59. Testing and Mocking Apollo Queries (20min)
 
-57. First Tests and Shallow Rendering (15min) ➡️see [commit]
+58. Snapshot Testing (16min) ➡️see [commit]()
+
+57. First Tests and Shallow Rendering (15min)
 
 ## Session 11
 [🔝 Table of Contents](#all-sessions)<br>
