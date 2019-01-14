@@ -21,6 +21,12 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
+63. More Apollo Client Mutation Testing (15min) ➡️see [commit]
+
+62. Testing Mutations (26min) ➡️see [commit]
+
+61. Testing Pagination (15min) ➡️see [commit]
+
 60. More Apollo Query Testing (21min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/4b0431f7d84b91980946811eb85f47a5846ff7a7)
 
 59. Testing and Mocking Apollo Queries (20min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/a337353c9167f01514098ec19657a4e4bbacf400)
