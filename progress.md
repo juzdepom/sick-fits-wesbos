@@ -21,9 +21,11 @@
 *🕐 All Day* <br>
 *📍 Koh Phangan, Thailand* <br>
 
-59. Testing and Mocking Apollo Queries (20min)
+60. More Apollo Query Testing (21min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/4b0431f7d84b91980946811eb85f47a5846ff7a7)
 
-58. Snapshot Testing (16min) ➡️see [commit]()
+59. Testing and Mocking Apollo Queries (20min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/a337353c9167f01514098ec19657a4e4bbacf400)
+
+58. Snapshot Testing (16min) ➡️see [commit](https://github.com/juzdepom/sick-fits-wesbos/commit/842f6a2325fd33fbeb431fb2e4065ca232a0a541)
 
 57. First Tests and Shallow Rendering (15min)
 
